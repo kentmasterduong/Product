@@ -160,6 +160,7 @@ namespace ProductManagement.Controllers
             if(new CategoryBL().CategoryIDIsExisted(categoryModel)==1)
             {
                 new CategoryBL().DeleteData(categoryModel);
+                TempData["Success"] = "Deleted successfuly";
                 return RedirectToAction("Index");
             }
 

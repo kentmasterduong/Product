@@ -33,7 +33,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Code, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Code, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.Code, new { htmlAttributes = new { @class = "form-control", @style = "text-align: left" } })
                 @Html.ValidationMessageFor(model => model.Code, "", new { @class = "text-danger" })
 
                
@@ -67,10 +67,10 @@
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
                 <div class="col-md-1">
-                    <input type="submit" value="Create" class="btn btn-default" style="width: 80px" />
+                    <input type="submit" value="Create" class="btn btn-success" style="width: 80px" />
                 </div>
                 <div class="col-md-1 col-md-offset-1">              
-                    @Html.ActionLink("Back", "Index", "Category", new { @class = "btn btn-default", @style = "width: 80px" })
+                    @Html.ActionLink("Back", "Index", "Category", new { @class = "btn btn-info", @style = "width: 80px" })
                 </div>
             </div>
             

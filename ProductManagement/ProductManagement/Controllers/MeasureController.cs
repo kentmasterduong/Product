@@ -155,6 +155,7 @@ namespace ProductManagement.Controllers
             if (new MeasureBL().MeasureIDIsExisted(measureModel) == 1)
             {
                 new MeasureBL().DeleteData(measureModel);
+                TempData["Success"] = "Deleted successfuly";
                 return RedirectToAction("Index");
             }
 

@@ -192,6 +192,7 @@ namespace ProductManagement.Controllers
             if (new ItemBL().ItemIDIsExisted(itemModel) == 1)
             {
                 new ItemBL().DeleteData(itemModel);
+                TempData["Success"] = "Deleted successfuly";
                 return RedirectToAction("Index");
             }
 

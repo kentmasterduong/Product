@@ -1,0 +1,131 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using PagedList.Mvc;
+
+
+@model ProductManagement.Models.Item
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (!string.IsNullOrEmpty((string)TempData["Danger"]))
+{
+    <div class="alert alert-danger">
+        @TempData["Danger"]
+    </div>
+}
+@if (!string.IsNullOrEmpty((string)TempData["Success"]))
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+@if (!string.IsNullOrEmpty((string)TempData["SearchCount"]))
+{
+    <div class="alert alert-success">
+        @TempData["SearchCount"]
+    </div>
+}
+
+<br>
+<div class="container">
+    <h3>Items table</h3>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.ActionLink("Add", "Add", "Item", null, new { @class = "btn btn-success", @style = "width:80px;" })
+
+        </div>
+
+        <div class="col-md-10">
+            @using (Html.BeginForm("Index", "Item", FormMethod.Get))
+            {
+                <div class="col-md-3">@Html.TextBoxFor(m => m.code, new { @class = "form-control", @placeholder = "Input code" })</div>
+                <div class="col-md-3">@Html.TextBoxFor(m => m.name, new { @class = "form-control", @placeholder = "Input name" })</div>
+                <div class="col-md-4">@Html.DropDownListFor(m => m.category_id, (SelectList)ViewBag.ListCategory, "", new { @class = "form-control", @placeholder = "Input category" })
+                    
+                </div>
+                <button type="submit" class="btn btn-default">
+                    <span class="glyphicon glyphicon-search"></span>
+                </button>
+            }
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <table class="table table-hover">
+
+            <th>STT</th>
+            <th>Item Code</th>
+            <th>Item Name</th>
+            <th>Category</th>
+            <th>Description</th>
+            <th>Dangerous</th>
+            <th></th>
+            <th></th>
+            @if (Model != null)
+            {
+                int n = (Model.page - 1) * 20 + 1;
+                foreach (var item in Model.lstItems)
+                {
+                    string cate = Core.Common.CommonMethod.IsNotNullOrEmpty(item.category_parent_name)
+                        ? item.category_parent_name + " >> " + item.category_name : item.category_name;
+                    <tr>
+                        <td>@(n++)</td>
+                        <td>@item.code</td>
+                        <td>@item.name</td>
+                        <td>@cate</td>
+                        <td>
+                            @{
+                                if (item.dangerous)
+                                {
+                                    <a> &nbsp;  &nbsp;  &nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-check" > &nbsp;&nbsp;  </span></a>
+                                }
+
+                            }
+
+                        </td>
+                        @if (item.discontinued_datetime.ToString().Length > 0 && item.discontinued_datetime != null)
+                        {
+                            <td>@DateTime.Parse(item.discontinued_datetime.ToString()).ToString("yyyy-MM-dd")</td>
+                        }
+                        else
+                        {
+                            <td></td>
+                        }
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Item", new { id = item.id }, new { @class = "btn btn-default", @style = "width:80px;" })
+                        </td>
+                        <td><div class="btn btn-danger"  href="#" data-href="@Url.Action("Delete", "Item", new { id = item.id })" data-toggle="modal" data-target="#confirm-delete" title="Delete">Delete</div></td>
+                    </tr>
+                                    }
+                                }
+
+        </table>
+    </div>
+    <div class="row">
+        @Html.PagedListPager(Model.lstItems, page => Url.Action("Index", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+    </div>
+</div>
+
+<script type="text/javascript">
+    $('#confirm-delete').on('show.bs.modal', function (e) {
+        $(this).find('.btn-ok').attr('href', $(e.relatedTarget).data('href'));
+
+        $('.debug-url').html('Delete URL: <strong>' + $(this).find('.btn-ok').attr('href') + '</strong>');
+    });
+
+    $("a[data-form-method='post']").click(function (event) {
+        event.preventDefault();
+        var element = $(this);
+        var action = element.attr("href");
+        element.closest("form").each(function () {
+            var form = $(this);
+            form.attr("action", action);
+            form.submit();
+        });
+    });
+</script>

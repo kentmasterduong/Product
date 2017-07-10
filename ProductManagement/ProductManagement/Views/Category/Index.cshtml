@@ -1,0 +1,131 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using PagedList.Mvc;
+
+
+@model ProductManagement.Models.Category
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+ @if (!string.IsNullOrEmpty((string)TempData["Danger"]))
+ {
+    <div class="alert alert-danger">
+        @TempData["Danger"]
+    </div>
+ }
+@if (!string.IsNullOrEmpty((string)TempData["Success"]))
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+} 
+@if (!string.IsNullOrEmpty((string)TempData["SearchCount"]))
+{
+    <div class="alert alert-success">
+        @TempData["SearchCount"]
+    </div>
+}
+
+   <br>
+    <div class="container">
+        <h3>Items table</h3>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.ActionLink("Add", "Add", "Category", null, new { @class = "btn btn-success", @style = "width:80px;" })
+
+            </div>
+            
+            <div class="col-md-8 col-md-offset-2">
+                @using (Html.BeginForm("Index", "Category", FormMethod.Get))
+                {
+                    
+                    
+                    <div class="col-md-4">@Html.TextBoxFor(m => m.Code, new { @class = "form-control", @placeholder = "Input code" }) </div> 
+                    <div class="col-md-4">@Html.TextBoxFor(m => m.Name, new { @class = "form-control", @placeholder = "Input name" })</div>
+                    <button type="submit" class="btn btn-default">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+
+
+
+                }
+            </div>
+            
+
+        </div>
+        
+
+        
+        <br>
+        <div class="row">
+
+            <table class="table table-hover">
+
+                <th>STT</th>
+                <th>ParentID</th>
+                <th>Category Code</th>
+                <th>Category Name</th>            
+                <th>Description</th>
+                <th>Created Date</th>
+                <th>Created User</th>
+                <th>Updated Date</th>
+                <th>Updated User</th>
+                <th></th>
+                <th></th>
+                @{int n = (Model.page - 1) * 20 + 1; }
+                @{
+                   
+                    foreach (var item in Model.lstCategory)
+                    {
+                        <tr>
+                            <td>@(n++)</td>
+                            <td>@item.ParentID</td>
+                            <td>@item.Code</td>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.Created_DateTime</td>
+                            <td>@item.CreatedBy</td>
+                            <td>@item.Updated_DateTime</td>
+                            <td>@item.UpdatedBy</td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", "Category", new { id = item.ID }, new { @class = "btn btn-default", @style = "width:80px;" })
+                            </td>                            
+                            <td>
+                                <a href="#" data-href="@Url.Action("Delete", "Category", new { id = item.ID })" data-toggle="modal" data-target="#confirm-delete" title="Delete">Delete</a>
+                            </td>
+
+                        </tr>
+                        
+                    }
+
+                }
+                
+            </table>
+        </div>
+        <div class="row">
+            @Html.PagedListPager(Model.lstCategory, page => Url.Action("Index", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+        </div>
+    </div>
+
+<script type="text/javascript">
+    $('#confirm-delete').on('show.bs.modal', function (e) {
+        $(this).find('.btn-ok').attr('href', $(e.relatedTarget).data('href'));
+
+        $('.debug-url').html('Delete URL: <strong>' + $(this).find('.btn-ok').attr('href') + '</strong>');
+    });
+
+    $("a[data-form-method='post']").click(function (event) {
+        event.preventDefault();
+        var element = $(this);
+        var action = element.attr("href");
+        element.closest("form").each(function () {
+            var form = $(this);
+            form.attr("action", action);
+            form.submit();
+        });
+    });
+</script>

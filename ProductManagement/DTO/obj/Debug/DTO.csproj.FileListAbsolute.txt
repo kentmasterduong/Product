@@ -1,0 +1,21 @@
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\bin\Debug\DTO.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\bin\Debug\Core.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\bin\Debug\Core.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\bin\Debug\DTO.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\bin\Debug\DTO.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\bin\Debug\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\bin\Debug\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DTO\obj\Debug\DTO.pdb
+D:\ProductManagement\DTO\bin\Debug\DTO.dll
+D:\ProductManagement\DTO\bin\Debug\DTO.pdb
+D:\ProductManagement\DTO\bin\Debug\Core.dll
+D:\ProductManagement\DTO\bin\Debug\Core.pdb
+D:\ProductManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\ProductManagement\DTO\obj\Debug\DTO.dll
+D:\ProductManagement\DTO\obj\Debug\DTO.pdb

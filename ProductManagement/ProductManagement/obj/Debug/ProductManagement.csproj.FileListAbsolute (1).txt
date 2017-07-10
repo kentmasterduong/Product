@@ -1,0 +1,169 @@
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\ApplicationInsights.config
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\csc.exe
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\vbc.exe
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.dll.config
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Web.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Helpers.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Mvc.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Razor.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Web.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Razor.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Helpers.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Mvc.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojResolveAssemblyReference.cache
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF5.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF6.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Fabric.Plugin.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Web.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF5.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF6.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Web.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\ApplicationInsights.config
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\csc.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\vbc.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\VBCSCompiler.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\ProductManagement.dll.config
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\ProductManagement.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\ProductManagement.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.Web.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.ApplicationInsights.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Helpers.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Mvc.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Razor.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.Deployment.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.Razor.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.Web.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.ApplicationInsights.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\MySql.Data.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\MySql.Data.Entity.EF5.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\MySql.Data.Entity.EF6.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\MySql.Web.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Razor.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.Deployment.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Webpages.Razor.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Helpers.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\bin\System.Web.Mvc.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\obj\Debug\ProductManagement.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\obj\Debug\ProductManagement.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement (1)\ProductManagement\obj\Debug\ProductManagement.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\ApplicationInsights.config
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\csc.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\vbc.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.dll.config
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\ProductManagement.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\BL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\DAL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\DTO.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Web.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.ApplicationInsights.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF5.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF6.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Fabric.Plugin.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Web.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Helpers.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Mvc.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Razor.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Deployment.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Razor.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\BL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\DAL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\DTO.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.Web.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.ApplicationInsights.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF5.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Data.Entity.EF6.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\MySql.Web.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Razor.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Deployment.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Webpages.Razor.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Helpers.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\System.Web.Mvc.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\ProductManagement\bin\roslyn\desktop.ini

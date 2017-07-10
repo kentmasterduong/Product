@@ -1,0 +1,32 @@
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\DAL.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\DAL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\DAL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\DTO.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\MySql.Data.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\DTO.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\MySql.Data.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\bin\Debug\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\DAL\obj\Debug\DAL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\DTO.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\MySql.Data.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\Core.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\MySql.Data.xml
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\DAL\bin\Debug\Core.pdb
+D:\ProductManagement\DAL\bin\Debug\DAL.dll
+D:\ProductManagement\DAL\bin\Debug\DAL.pdb
+D:\ProductManagement\DAL\bin\Debug\Core.dll
+D:\ProductManagement\DAL\bin\Debug\DTO.dll
+D:\ProductManagement\DAL\bin\Debug\Core.pdb
+D:\ProductManagement\DAL\bin\Debug\DTO.pdb
+D:\ProductManagement\DAL\bin\Debug\MySql.Data.xml
+D:\ProductManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ProductManagement\DAL\obj\Debug\DAL.dll
+D:\ProductManagement\DAL\obj\Debug\DAL.pdb

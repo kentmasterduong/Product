@@ -1,0 +1,39 @@
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\BL.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\BL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\obj\Debug\BL.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\obj\Debug\BL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\Core.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\Core.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\BL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\BL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\DAL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\DTO.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\MySql.Data.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\DAL.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\DTO.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\bin\Debug\MySql.Data.xml
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\obj\Debug\BL.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\BL\obj\Debug\BL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\DAL.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\DTO.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\MySql.Data.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\DAL.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\DTO.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\BL\bin\Debug\MySql.Data.xml
+D:\ProductManagement\BL\bin\Debug\BL.dll
+D:\ProductManagement\BL\bin\Debug\BL.pdb
+D:\ProductManagement\BL\bin\Debug\Core.dll
+D:\ProductManagement\BL\bin\Debug\DAL.dll
+D:\ProductManagement\BL\bin\Debug\DTO.dll
+D:\ProductManagement\BL\bin\Debug\MySql.Data.dll
+D:\ProductManagement\BL\bin\Debug\Core.pdb
+D:\ProductManagement\BL\bin\Debug\DAL.pdb
+D:\ProductManagement\BL\bin\Debug\DTO.pdb
+D:\ProductManagement\BL\bin\Debug\MySql.Data.xml
+D:\ProductManagement\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\ProductManagement\BL\obj\Debug\BL.dll
+D:\ProductManagement\BL\obj\Debug\BL.pdb

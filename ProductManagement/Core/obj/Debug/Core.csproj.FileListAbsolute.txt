@@ -1,0 +1,15 @@
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\Core\bin\Debug\Core.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\Core\bin\Debug\Core.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\Core\obj\Debug\Core.dll
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\Core\obj\Debug\Core.pdb
+C:\Users\ntduong\Google Drive\Cong viec\ProductManagement\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\project\GoogleDrive\Cong viec\ProductManagement\Core\bin\Debug\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\Core\bin\Debug\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\Core\obj\Debug\Core.dll
+D:\project\GoogleDrive\Cong viec\ProductManagement\Core\obj\Debug\Core.pdb
+D:\project\GoogleDrive\Cong viec\ProductManagement\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\ProductManagement\Core\bin\Debug\Core.dll
+D:\ProductManagement\Core\bin\Debug\Core.pdb
+D:\ProductManagement\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\ProductManagement\Core\obj\Debug\Core.dll
+D:\ProductManagement\Core\obj\Debug\Core.pdb
